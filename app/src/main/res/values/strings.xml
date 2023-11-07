@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BookApi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="phone_number">phone number</string>
+    <string name="password">password</string>
+    <string name="confirm">confirm</string>
+    <string name="you_are_new">You are new?</string>
+    <string name="create_new">Create new</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="check">check</string>
+</resources>
